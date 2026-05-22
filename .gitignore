@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+telemetry_logs/
+*.csv
+!data/sample_omega_telemetry.csv
